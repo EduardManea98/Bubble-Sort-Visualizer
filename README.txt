@@ -1,6 +1,6 @@
 About: Bubble Sort Algorithm Visualizer
 
-How to use: 
+HOW TO OPEN: 
 Option 1) Open this link: https://editor.p5js.org/EduardManea98/sketches/347WKeWEt
 Option 2) Download project and open index.html file in browser
 
